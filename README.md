@@ -1,6 +1,7 @@
 # cs231n-assignments-2022
 My solutions to the CS231n 2022 assignments  
-Most of the codes are finished by myself:smiley:
+Most of the codes are finished by myself.So there are chances of undiscovered mistakes. :smiley:
+Some of the implementations are maybe naive:sob:
 
 Assignment 1:  
  | Questions | |
